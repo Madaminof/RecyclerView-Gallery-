@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "991398373111",
+    "project_id": "imageview-1cf73",
+    "storage_bucket": "imageview-1cf73.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:991398373111:android:7182ca4bc4eb7d126a15f2",
+        "android_client_info": {
+          "package_name": "com.example.recyclerview"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDPEqPT0IW5bxXKYe3QR15mRWEt8tk2gp0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
